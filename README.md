@@ -14,3 +14,9 @@ PASOS REALIZADO EN README
 6 feat(api): crear controlador y rutas GET/POST empleados API REST funcional
 
 7 docs: agregar guía de ejecución del backend Indicaciones básicas en README
+
+8 feat(web): crear proyecto Angular y componente empleados Angular inicial + componente
+
+9 feat(web): crear servicio empleados y consumir API Peticiones GET/POST funcionando
+
+10 feat(web): vista tabla + formulario insertar empleados UI funcionando con pruebas
